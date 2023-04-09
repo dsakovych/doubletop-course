@@ -6,6 +6,7 @@ All materials are in ukrainian/russian.
 ### Methodical materials
 
 - [Dive into crypto](dive-into-crypto/readme.md)
+- [NFT](nft/readme.md)
 
 
 ### Streams
@@ -13,3 +14,5 @@ All materials are in ukrainian/russian.
 2. [Q&A по теме "NFT"](https://www.youtube.com/watch?v=0hBU2eZaJIc)
 3. [Ресерч проекта NFT](https://www.youtube.com/watch?v=MMLMgkoYuKs)
 4. [Q&A по теме "NFT"](https://www.youtube.com/watch?v=3E3gwyqDhNc)
+
+### [Useful links](useful-links.md)
