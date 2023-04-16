@@ -7,6 +7,7 @@ All materials are in ukrainian/russian.
 
 - [Dive into crypto](dive-into-crypto/readme.md)
 - [NFT](nft/readme.md)
+- [ICO](ico/readme.md)
 
 
 ### Streams
@@ -16,5 +17,7 @@ All materials are in ukrainian/russian.
 4. [Q&A по теме "NFT"](https://www.youtube.com/watch?v=3E3gwyqDhNc)
 5. [Проверка ДЗ по модулю "NFT" / GEM](https://www.youtube.com/watch?v=UyhNQM6HdRY)
 6. [Проверка ДЗ по модулю "NFT" / Advanced](https://www.youtube.com/watch?v=9knLcRD8Nd4)
+7. [Q&A по теме "ICO"](https://www.youtube.com/watch?v=Q1kQ9VDE-AI)
+8. [Ресерч ICO проекта](https://www.youtube.com/watch?v=t3fdP5wN1l4)
 
 ### [Useful links](useful-links.md)
