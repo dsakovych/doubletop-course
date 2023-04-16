@@ -8,6 +8,7 @@ All materials are in ukrainian/russian.
 - [Dive into crypto](dive-into-crypto/readme.md)
 - [NFT](nft/readme.md)
 - [ICO](ico/readme.md)
+- [Nodes](nodes/readme.md)
 
 
 ### Streams
