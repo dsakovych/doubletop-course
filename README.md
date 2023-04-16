@@ -14,5 +14,7 @@ All materials are in ukrainian/russian.
 2. [Q&A по теме "NFT"](https://www.youtube.com/watch?v=0hBU2eZaJIc)
 3. [Ресерч проекта NFT](https://www.youtube.com/watch?v=MMLMgkoYuKs)
 4. [Q&A по теме "NFT"](https://www.youtube.com/watch?v=3E3gwyqDhNc)
+5. [Проверка ДЗ по модулю "NFT" / GEM](https://www.youtube.com/watch?v=UyhNQM6HdRY)
+6. [Проверка ДЗ по модулю "NFT" / Advanced](https://www.youtube.com/watch?v=9knLcRD8Nd4)
 
 ### [Useful links](useful-links.md)
