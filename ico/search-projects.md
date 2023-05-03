@@ -24,7 +24,7 @@
 
 [https://twitter.com/binance](https://twitter.com/binance)
 
-[https://twitter.com/Bybit\_Official](https://twitter.com/Bybit_Official)
+[https://twitter.com/Bybit_Official](https://twitter.com/Bybit_Official)
 
 Агрегатори
 ----------

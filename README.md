@@ -21,5 +21,9 @@ All materials are in ukrainian/russian.
 7. [Q&A по теме "ICO"](https://www.youtube.com/watch?v=Q1kQ9VDE-AI)
 8. [Ресерч ICO проекта](https://www.youtube.com/watch?v=t3fdP5wN1l4)
 9. [Стрим с Гнатом и Олегом](https://www.youtube.com/watch?v=f20r8vnv3kU)
+10. [Проверка ДЗ по модулю "ICO"](https://www.youtube.com/watch?v=RajVxVQVa6I)
+11. [Стрим по теме Nodes](https://www.youtube.com/watch?v=OaEBo8pwvx8)
+12. [QA по теме Nodes](https://www.youtube.com/watch?v=1UfTX9fSH44)
+13. [Q&A по теме "Мультиаккинг"](https://www.youtube.com/watch?v=_GXgZqfQUYs)
 
 ### [Useful links](useful-links.md)
