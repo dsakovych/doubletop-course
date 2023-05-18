@@ -11,3 +11,4 @@
 - [Огляд MetaMask](metamask-review.md)
 - [Огляд 1INCH та Uniswap](review-1inch-uniswap.md)
 - [Стратегія інвестування DCA](DCA-invest-strategy.md)
+- [Безпека в WEB3](web3-security.md)

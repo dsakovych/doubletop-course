@@ -25,5 +25,12 @@ All materials are in ukrainian/russian.
 11. [Стрим по теме Nodes](https://www.youtube.com/watch?v=OaEBo8pwvx8)
 12. [QA по теме Nodes](https://www.youtube.com/watch?v=1UfTX9fSH44)
 13. [Q&A по теме "Мультиаккинг"](https://www.youtube.com/watch?v=_GXgZqfQUYs)
+14. [Q&A по теме "Amb-retro"](https://www.youtube.com/watch?v=21vllZfl66w)
+15. [Стрим с Founder`ом A2 Finance](https://www.youtube.com/watch?v=6u2qPcgiaA4)
+16. [Q&A по теме "DeFi"](https://www.youtube.com/watch?v=td_JmZ5-d9w)
+17. [Q&A по теме "DeFi" | #2](https://www.youtube.com/watch?v=ELmj8YsADa0)
+18. [Q/A по первому блоку](https://www.youtube.com/watch?v=C1jjpbW5DtY)
+19. [Q/A по второму блоку](https://www.youtube.com/watch?v=Vzv6IGCvDlk)
+20. [Проверка ДЗ по второму блоку](https://www.youtube.com/watch?v=rlyHRqCMQjE)
 
 ### [Useful links](useful-links.md)
