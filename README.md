@@ -9,6 +9,8 @@ All materials are in ukrainian/russian.
 - [NFT](nft/readme.md)
 - [ICO](ico/readme.md)
 - [Nodes](nodes/readme.md)
+- [Multiacc](multiacc/readme.md)
+- [DeFi](defi/readme.md)
 
 
 ### Streams
