@@ -35,4 +35,7 @@ All materials are in ukrainian/russian.
 19. [Q/A по второму блоку](https://www.youtube.com/watch?v=Vzv6IGCvDlk)
 20. [Проверка ДЗ по второму блоку](https://www.youtube.com/watch?v=rlyHRqCMQjE)
 
+
+https://www.youtube.com/watch?v=POSMT4Q0pf4
+
 ### [Useful links](useful-links.md)
