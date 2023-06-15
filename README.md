@@ -34,6 +34,18 @@ All materials are in ukrainian/russian.
 18. [Q/A по первому блоку](https://www.youtube.com/watch?v=C1jjpbW5DtY)
 19. [Q/A по второму блоку](https://www.youtube.com/watch?v=Vzv6IGCvDlk)
 20. [Проверка ДЗ по второму блоку](https://www.youtube.com/watch?v=rlyHRqCMQjE)
+21. [Q/A по третьему блоку](https://www.youtube.com/watch?v=_OB9HDYvX_s)
+22. [Проверка ДЗ по третьему блоку](https://www.youtube.com/watch?v=PEDnHpMmobw)
+23. [Q/A по четвертому блоку](https://www.youtube.com/watch?v=EscLNuqDAb0)
+24. [Проверка ДЗ по четвертому блоку](https://www.youtube.com/watch?v=u3euffBAa30)
+25. [Стрим с Hexdrunker & Santanika](https://www.youtube.com/watch?v=POSMT4Q0pf4)
+26. [Q/A по пятому блоку](https://www.youtube.com/watch?v=OdTmHpZZ32k)
+27. [Лайв бектест](https://www.youtube.com/watch?v=XtMCns-sYDE)
+28. [Q/A по FX](https://www.youtube.com/watch?v=vwo9mq45sIo)
+29. [Q/A по первому блоку "advanced"](https://www.youtube.com/watch?v=ztg8A_e9H7Y)
+30. [Проверка ДЗ по первому блоку "advanced"](https://www.youtube.com/watch?v=HDo0qX2VmBw)
+31. [Дополнительная сдача ДЗ по первому блоку "advanced"](https://www.youtube.com/watch?v=Tbtiho4M7Ug)
+32. [Q/A по второму блоку "advanced"](https://www.youtube.com/watch?v=Z8mtL7J6wdc)
 
 
 https://www.youtube.com/watch?v=POSMT4Q0pf4
